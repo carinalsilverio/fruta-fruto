@@ -1,4 +1,4 @@
-# Animais Fantásticos 
+# Fruta e Fruto
 >Plataforma Alura
 
 ![preview](/github/preview.png)
